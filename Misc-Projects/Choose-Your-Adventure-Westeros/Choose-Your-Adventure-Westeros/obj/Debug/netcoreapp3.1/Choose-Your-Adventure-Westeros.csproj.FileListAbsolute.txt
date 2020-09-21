@@ -1,0 +1,12 @@
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/bin/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.deps.json
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/bin/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.runtimeconfig.json
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/bin/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.runtimeconfig.dev.json
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/bin/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.dll
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/bin/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.pdb
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/obj/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.csprojAssemblyReference.cache
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/obj/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.AssemblyInfoInputs.cache
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/obj/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.AssemblyInfo.cs
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/obj/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.csproj.CoreCompileInputs.cache
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/obj/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.dll
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/obj/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.pdb
+/Users/kilgoresound/Projects/Choose-Your-Adventure-Westeros/Choose-Your-Adventure-Westeros/obj/Debug/netcoreapp3.1/Choose-Your-Adventure-Westeros.genruntimeconfig.cache
