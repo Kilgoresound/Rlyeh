@@ -1,0 +1,12 @@
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/bin/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.deps.json
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/bin/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.runtimeconfig.json
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/bin/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.runtimeconfig.dev.json
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/bin/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.dll
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/bin/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.pdb
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/obj/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.csprojAssemblyReference.cache
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/obj/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.AssemblyInfoInputs.cache
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/obj/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.AssemblyInfo.cs
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/obj/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.csproj.CoreCompileInputs.cache
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/obj/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.dll
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/obj/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.pdb
+/Users/kilgoresound/Projects/ASOIAF-Quiz-True-or-False/ASOIAF-Quiz-True-or-False/obj/Debug/netcoreapp3.1/ASOIAF-Quiz-True-or-False.genruntimeconfig.cache
